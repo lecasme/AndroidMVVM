@@ -26,7 +26,7 @@ Su funcion es recuperar de la base de datos local, la lista de pokemons y mostra
 
 ## Screenshots
 
-![Splash Screen](https://raw.githubusercontent.com/lecasme/AndroidMVVM/tree/master/app/src/main/res/drawable/splash.png?raw=true)
-![Home Screen](https://raw.githubusercontent.com/lecasme/AndroidMVVM/tree/master/app/src/main/res/drawable/home.png?raw=true)
+![Splash Screen](https://raw.githubusercontent.com/lecasme/AndroidMVVM/master/app/src/main/res/drawable/splash.png?raw=true)
+![Home Screen](https://raw.githubusercontent.com/lecasme/AndroidMVVM/master/app/src/main/res/drawable/home.png?raw=true)
 
 
